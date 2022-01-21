@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.69888a9c.css",
-    "main.js": "/static/js/main.04b432a1.js",
-    "static/js/787.c39012cf.chunk.js": "/static/js/787.c39012cf.chunk.js",
-    "index.html": "/index.html",
-    "main.69888a9c.css.map": "/static/css/main.69888a9c.css.map",
-    "main.04b432a1.js.map": "/static/js/main.04b432a1.js.map",
-    "787.c39012cf.chunk.js.map": "/static/js/787.c39012cf.chunk.js.map"
+    "main.css": "/myMangas/static/css/main.69888a9c.css",
+    "main.js": "/myMangas/static/js/main.b199a478.js",
+    "static/js/787.c39012cf.chunk.js": "/myMangas/static/js/787.c39012cf.chunk.js",
+    "index.html": "/myMangas/index.html",
+    "main.69888a9c.css.map": "/myMangas/static/css/main.69888a9c.css.map",
+    "main.b199a478.js.map": "/myMangas/static/js/main.b199a478.js.map",
+    "787.c39012cf.chunk.js.map": "/myMangas/static/js/787.c39012cf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.69888a9c.css",
-    "static/js/main.04b432a1.js"
+    "static/js/main.b199a478.js"
   ]
 }
