@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/myAnimes/static/css/main.69888a9c.css",
+    "main.js": "/myAnimes/static/js/main.3ad811f9.js",
+    "static/js/787.c39012cf.chunk.js": "/myAnimes/static/js/787.c39012cf.chunk.js",
+    "index.html": "/myAnimes/index.html",
+    "main.69888a9c.css.map": "/myAnimes/static/css/main.69888a9c.css.map",
+    "main.3ad811f9.js.map": "/myAnimes/static/js/main.3ad811f9.js.map",
+    "787.c39012cf.chunk.js.map": "/myAnimes/static/js/787.c39012cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69888a9c.css",
+    "static/js/main.3ad811f9.js"
+  ]
+}
